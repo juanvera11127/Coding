@@ -1,0 +1,33 @@
+How many signed integers would you like to enter? 20
+Enter an int: 6
+Enter an int: 1
+Enter an int: 8
+Enter an int: 34
+Enter an int: 856
+Enter an int: -2354
+Enter an int: -38
+Enter an int: 35
+Enter an int: 5
+Enter an int: 2358
+Enter an int: 0
+Enter an int: 5
+Enter an int: 5
+Enter an int: 235
+Enter an int: 4574
+Enter an int: -2345
+Enter an int: -234
+Enter an int: -235
+Enter an int: 65
+Enter an int: 34
+-2354 -2345 -235 -234 -38 0 1 5 5 5 6 8 34 34 35 65 235 856 2358 4574 
+What value would you like to search for? -2354
+Value found
+
+What value would you like to search for? 4574
+Value found
+
+What value would you like to search for? 5
+Value found
+
+What value would you like to search for? 10000
+Value not found

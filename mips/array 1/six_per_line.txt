@@ -1,0 +1,28 @@
+
+Enter an int: 1
+Enter an int: 2
+Enter an int: 3
+Enter an int: 4
+Enter an int: 5
+Enter an int: 6
+Enter an int: 7
+Enter an int: 8
+Enter an int: 9
+Enter an int: 10
+Enter an int: 11
+Enter an int: 12
+Enter an int: 13
+Enter an int: 14
+Enter an int: 15
+Enter an int: 16
+Enter an int: 17
+Enter an int: 18
+Enter an int: 19
+Enter an int: 20
+20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 
+Enter a divide factor: n <= 20: 6
+1 2 3 4 5 6 
+7 8 9 10 11 12 
+13 14 15 16 17 18 
+19 20 
+-- program is finished running --
