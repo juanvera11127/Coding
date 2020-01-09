@@ -4,10 +4,10 @@ var Twitter = require('twitter');
 console.log("setting up...");
 
 var client = new Twitter( {
-	consumer_key:			'KuRmMvZbVmqhkG5v5sEQO2UIG'
-	,consumer_secret:		'YmEA5GyQRUXQZZvvw0EgdNXbY3hHnjKT5fKnS56XRtKMmBgcHo'
-	,access_token_key:		'1205851912735584257-F3AdrWetDLMnbU27XVNtHKGtJ7l6GS'
-	,access_token_secret:		'EXlKajVlZLJQO8gu3TSraP56TL41S5G4GyJGojKecJm6t'
+	consumer_key:			''
+	,consumer_secret:		''
+	,access_token_key:		''
+	,access_token_secret:		''
 }); 
 
 var file = 'new.txt';
